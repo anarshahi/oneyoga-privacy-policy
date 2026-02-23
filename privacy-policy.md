@@ -2,7 +2,7 @@
 
 **OneYoga Hub**
 
-Last updated: 2025 / Последнее обновление: 2025
+Last updated: February 2025 / Последнее обновление: февраль 2025
 
 ---
 
@@ -16,75 +16,121 @@ This Privacy Policy describes how the OneYoga Hub app ("we", "the app") collects
 
 ## 2. Data We Collect / Данные, которые мы собираем
 
-- **Account data / Учётные данные:** email, name, surname, phone number — during registration and in profile / при регистрации и в профиле.
+### 2.1 Account and Contact Information / Учётные и контактные данные
 
-- **Photos / Фотографии:** profile picture and images uploaded by instructors and studios / фото профиля и изображения, загружаемые инструкторами и студиями.
+- **Email address** — for registration and account recovery / для регистрации и восстановления аккаунта
+- **Name and surname** — for profile and bookings / для профиля и бронирований
+- **Phone number** — optional, for contact / по желанию, для связи
 
-- **Location / Геолокация:** device location — only when using the map (with your permission), to show your position and routes / местоположение устройства — только при использовании карты (с вашего разрешения).
+### 2.2 Location Data / Геолокация
 
-- **User content / Пользовательский контент:** reviews, bookings, and other data you enter / отзывы, бронирования и другие данные, которые вы вводите.
+- **Device location** — only when you use the map feature, with your explicit permission. Used to show your position on the map and build routes to studios.
+- **Местоположение устройства** — только при использовании карты, с вашего разрешения. Используется для отображения вашей позиции и построения маршрутов до студий.
+
+### 2.3 Photos / Фотографии
+
+- **Profile photo** — if you upload one / фото профиля — при загрузке
+- **Images from instructors and studios** — when adding listings to the catalog / изображения от инструкторов и студий — при добавлении в каталог
+
+### 2.4 User-Generated Content / Пользовательский контент
+
+- **Reviews** — ratings and text you write about instructors and studios / отзывы — оценки и текст об инструкторах и студиях
+- **Bookings** — class reservations you make / бронирования — записи на занятия
+
+### 2.5 Technical Data / Технические данные
+
+- **Device information** — for app functionality (e.g., push notifications) / информация об устройстве — для работы приложения (уведомления и т.д.)
 
 ---
 
 ## 3. Purpose of Use / Цели использования
 
-We use collected data to: provide app functionality, display the catalog of instructors and studios, send booking notifications, and improve the app.
+We use collected data to:
 
-Мы используем данные для: работы приложения, отображения каталога инструкторов и студий, отправки уведомлений о бронированиях и улучшения приложения.
+- Provide app functionality (registration, profile, catalog, bookings)
+- Display the directory of instructors, studios, and shops
+- Send push notifications about bookings (for studio owners)
+- Improve the app and user support
 
----
-
-## 4. Storage and Security / Хранение и защита
-
-Data is stored on secure servers (Firebase). We take reasonable measures to protect data from unauthorized access.
-
-Данные хранятся на защищённых серверах (Firebase). Мы применяем разумные меры для защиты данных.
+Мы используем данные для: работы приложения, каталога инструкторов и студий, уведомлений о бронированиях и поддержки пользователей.
 
 ---
 
-## 5. Third-Party Services / Сторонние сервисы
+## 4. Third-Party Services / Сторонние сервисы
 
-The app uses Firebase (Authentication, Firestore, Storage, Cloud Messaging) for its operation. These services have their own privacy policies:
+The app uses **Firebase** (Google) for:
 
-- [Firebase Privacy](https://firebase.google.com/support/privacy)
+- **Authentication** — sign-in and account management
+- **Firestore** — database for user data, instructors, studios
+- **Storage** — image storage
+- **Cloud Messaging** — push notifications
 
-We do not sell or share your personal data with third parties, except as required by law.
+Privacy policy of Firebase: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
-Мы не продаём и не передаём ваши персональные данные третьим лицам, кроме случаев, предусмотренных законом.
+We do not use advertising networks, analytics tools, or other third-party SDKs for data collection beyond what is necessary for app operation.
 
----
-
-## 6. Your Rights / Ваши права
-
-You can view and edit your data in the profile, or request account deletion by contacting us.
-
-Вы можете просматривать и редактировать свои данные в профиле или запросить удаление аккаунта, обратившись к нам.
+Мы не используем рекламные сети и сторонние аналитические инструменты. Данные передаются только в Firebase для работы приложения.
 
 ---
 
-## 7. Children / Дети
+## 5. Storage and Security / Хранение и защита
 
-The app is not intended for children under 13. We do not knowingly collect data from children under 13.
+Data is stored on secure servers (Firebase/Google Cloud). We apply reasonable measures to protect data from unauthorized access.
 
-Приложение не предназначено для детей младше 13 лет. Мы не собираем данные детей младше 13 лет.
-
----
-
-## 8. Changes / Изменения
-
-We may update this Privacy Policy from time to time. The current version is always available at this link.
-
-Мы можем обновлять настоящую Политику конфиденциальности. Актуальная версия всегда доступна по этой ссылке.
+Данные хранятся на защищённых серверах. Мы применяем разумные меры для защиты данных.
 
 ---
 
-## 9. Contact / Контакты
+## 6. Data Retention / Хранение данных
 
-**Email:** yogashahistudio@gmail.com
+We retain your data for as long as you use the app and for a reasonable period thereafter. To request deletion of your data, contact us by email.
 
-For questions about privacy, data deletion, or this policy, please contact us at the email above.
+Мы храним ваши данные, пока вы пользуетесь приложением, и в течение разумного срока после этого. Для удаления данных обратитесь к нам по email.
 
-По вопросам конфиденциальности, удаления данных или настоящей политики обращайтесь по указанному выше email.
+---
+
+## 7. Your Rights / Ваши права
+
+- **View and edit** — you can update your data in the profile / просматривать и редактировать данные в профиле
+- **Delete account** — contact us at yogashahistudio@gmail.com to request account and data deletion / удалить аккаунт — напишите нам для удаления аккаунта и данных
+- **Uninstall** — you can stop data collection by uninstalling the app / удаление приложения прекращает сбор данных
+
+---
+
+## 8. Third-Party Sharing / Передача третьим лицам
+
+We do not sell or share your personal data with third parties. Data may be disclosed only:
+
+- as required by law
+- to service providers necessary for app operation (Firebase), under their privacy policies
+
+Мы не продаём и не передаём ваши персональные данные третьим лицам. Передача возможна только по требованию закона или в рамках работы сервисов приложения.
+
+---
+
+## 9. Children / Дети
+
+The app is not intended for children under 13. We do not knowingly collect data from children under 13. If you become aware that a child has provided us with personal information, please contact us.
+
+Приложение не предназначено для детей младше 13 лет. Мы не собираем данные детей. Если вы узнали о передаче нам данных ребёнка, свяжитесь с нами.
+
+---
+
+## 10. Changes / Изменения
+
+We may update this Privacy Policy from time to time. The current version is always available at this link. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+Мы можем обновлять настоящую Политику. Актуальная версия доступна по этой ссылке. Продолжение использования приложения означает согласие с обновлённой политикой.
+
+---
+
+## 11. Contact / Контакты
+
+**Email:** [yogashahistudio@gmail.com](mailto:yogashahistudio@gmail.com)
+
+For questions about privacy, data deletion, or this policy, please contact us.
+
+По вопросам конфиденциальности, удаления данных или настоящей политики обращайтесь по указанному email.
 
 ---
 
