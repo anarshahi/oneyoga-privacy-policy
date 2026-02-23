@@ -1,77 +1,91 @@
-**Privacy Policy**
+# Privacy Policy / Политика конфиденциальности
 
-This privacy policy applies to the OneYoga app (hereby referred to as "Application") for mobile devices that was created by Anar Shahi (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+**OneYoga Hub**
 
-**Information Collection and Use**
+Last updated: 2025 / Последнее обновление: 2025
 
-The Application collects information when you download and use it. This information may include information such as
+---
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## 1. General / Общие положения
 
-The Application does not gather precise information about the location of your mobile device.
+This Privacy Policy describes how the OneYoga Hub app ("we", "the app") collects, uses, and protects user data. The app is provided by Yoga Shahi. By using the app, you agree to the terms of this policy.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Настоящая Политика конфиденциальности описывает, как приложение OneYoga Hub («мы», «приложение») собирает, использует и защищает данные пользователей. Приложение предоставляется Yoga Shahi. Используя приложение, вы соглашаетесь с условиями настоящей политики.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+---
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## 2. Data We Collect / Данные, которые мы собираем
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to anar.shahi@gmail.com, Anar Shahi. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+- **Account data / Учётные данные:** email, name, surname, phone number — during registration and in profile / при регистрации и в профиле.
 
-**Third Party Access**
+- **Photos / Фотографии:** profile picture and images uploaded by instructors and studios / фото профиля и изображения, загружаемые инструкторами и студиями.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+- **Location / Геолокация:** device location — only when using the map (with your permission), to show your position and routes / местоположение устройства — только при использовании карты (с вашего разрешения).
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+- **User content / Пользовательский контент:** reviews, bookings, and other data you enter / отзывы, бронирования и другие данные, которые вы вводите.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+---
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+## 3. Purpose of Use / Цели использования
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+We use collected data to: provide app functionality, display the catalog of instructors and studios, send booking notifications, and improve the app.
 
-**Opt-Out Rights**
+Мы используем данные для: работы приложения, отображения каталога инструкторов и студий, отправки уведомлений о бронированиях и улучшения приложения.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+---
 
-**Data Retention Policy**
+## 4. Storage and Security / Хранение и защита
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at anar.shahi@gmail.com and they will respond in a reasonable time.
+Data is stored on secure servers (Firebase). We take reasonable measures to protect data from unauthorized access.
 
-**Children**
+Данные хранятся на защищённых серверах (Firebase). Мы применяем разумные меры для защиты данных.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+---
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (anar.shahi@gmail.com) so that they will be able to take the necessary actions.
+## 5. Third-Party Services / Сторонние сервисы
 
-**Security**
+The app uses Firebase (Authentication, Firestore, Storage, Cloud Messaging) for its operation. These services have their own privacy policies:
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+- [Firebase Privacy](https://firebase.google.com/support/privacy)
 
-**Changes**
+We do not sell or share your personal data with third parties, except as required by law.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Мы не продаём и не передаём ваши персональные данные третьим лицам, кроме случаев, предусмотренных законом.
 
-This privacy policy is effective as of 2025-08-07
+---
 
-**Your Consent**
+## 6. Your Rights / Ваши права
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+You can view and edit your data in the profile, or request account deletion by contacting us.
 
-**Contact Us**
+Вы можете просматривать и редактировать свои данные в профиле или запросить удаление аккаунта, обратившись к нам.
 
-If you have any questions regarding privacy while using the Application, account deletion or have questions about the practices, please contact the Service Provider via email at anar.shahi@gmail.com.
+---
 
-* * *
+## 7. Children / Дети
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+The app is not intended for children under 13. We do not knowingly collect data from children under 13.
+
+Приложение не предназначено для детей младше 13 лет. Мы не собираем данные детей младше 13 лет.
+
+---
+
+## 8. Changes / Изменения
+
+We may update this Privacy Policy from time to time. The current version is always available at this link.
+
+Мы можем обновлять настоящую Политику конфиденциальности. Актуальная версия всегда доступна по этой ссылке.
+
+---
+
+## 9. Contact / Контакты
+
+**Email:** yogashahistudio@gmail.com
+
+For questions about privacy, data deletion, or this policy, please contact us at the email above.
+
+По вопросам конфиденциальности, удаления данных или настоящей политики обращайтесь по указанному выше email.
+
+---
+
+© Yoga Shahi. OneYoga Hub — платформа для йога-сообщества Азербайджана.
