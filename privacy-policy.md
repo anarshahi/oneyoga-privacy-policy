@@ -2,7 +2,7 @@
 
 **OneYoga Hub**
 
-Last updated: February 2025 / Последнее обновление: февраль 2025
+Last updated: February 2026 / Последнее обновление: февраль 2026
 
 ---
 
