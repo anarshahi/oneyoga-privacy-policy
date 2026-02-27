@@ -1,137 +1,105 @@
-# Privacy Policy / Политика конфиденциальности
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Политика конфиденциальности — OneYoga Hub</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #4A4035; }
+        h2 { color: #C4A77D; margin-top: 1.5em; }
+        .updated { color: #666; font-size: 0.9em; }
+        a { color: #C4A77D; }
+    </style>
+</head>
+<body>
+    <h1>Политика конфиденциальности</h1>
+    <p class="updated">OneYoga Hub</p>
+    <p class="updated">Последнее обновление: 2025</p>
 
-**OneYoga Hub**
+    <h2>1. Общие положения</h2>
+    <p>Настоящая Политика конфиденциальности описывает, как приложение OneYoga Hub («мы», «приложение») собирает, использует и защищает данные пользователей. Используя приложение, вы соглашаетесь с условиями настоящей политики.</p>
 
-Last updated: February 2026 / Последнее обновление: февраль 2026
+    <h2>2. Данные, которые мы собираем</h2>
+    <p>Приложение может собирать следующие данные:</p>
+    <ul>
+        <li><strong>Учётные данные:</strong> адрес электронной почты, имя, фамилия, номер телефона — при регистрации и в профиле.</li>
+        <li><strong>Фотографии:</strong> фото профиля пользователя, а также изображения, загружаемые инструкторами и студиями при добавлении в каталог.</li>
+        <li><strong>Геолокация:</strong> местоположение устройства — только при использовании карты (с вашего разрешения), для отображения вашей позиции и маршрутов.</li>
+        <li><strong>Пользовательский контент:</strong> отзывы, бронирования и другие данные, которые вы вводите в приложении.</li>
+        <li><strong>AI Терапевт:</strong> текст ваших вопросов о йоге — при использовании раздела «AI Терапевт» сообщения отправляются в Google Cloud (Firebase) для генерации ответов. Мы запрашиваем ваше явное согласие перед отправкой. Передаётся только текст вопроса.</li>
+    </ul>
 
----
+    <h2>3. Цели использования данных</h2>
+    <p>Мы используем собранные данные для:</p>
+    <ul>
+        <li>обеспечения работы приложения (авторизация, профиль, бронирования);</li>
+        <li>отображения каталога инструкторов, студий и магазинов;</li>
+        <li>отправки уведомлений о бронированиях (если вы владелец студии);</li>
+        <li>улучшения работы приложения и поддержки пользователей;</li>
+        <li><strong>AI Терапевт:</strong> обработка ваших вопросов о йоге через Google Cloud AI для генерации ответов (только после вашего явного согласия).</li>
+    </ul>
 
-## 1. General / Общие положения
+    <h2>4. Хранение и защита данных</h2>
+    <p>Данные хранятся на защищённых серверах (Firebase). Мы применяем разумные меры для защиты данных от несанкционированного доступа.</p>
 
-This Privacy Policy describes how the OneYoga Hub app ("we", "the app") collects, uses, and protects user data. The app is provided by Yoga Shahi. By using the app, you agree to the terms of this policy.
+    <h2>5. Передача данных третьим лицам</h2>
+    <p>Мы не продаём и не передаём ваши персональные данные третьим лицам. Данные могут передаваться только:</p>
+    <ul>
+        <li>по требованию закона;</li>
+        <li>в рамках сервисов, необходимых для работы приложения (Firebase, Google Cloud для AI Терапевта).</li>
+    </ul>
 
-Настоящая Политика конфиденциальности описывает, как приложение OneYoga Hub («мы», «приложение») собирает, использует и защищает данные пользователей. Приложение предоставляется Yoga Shahi. Используя приложение, вы соглашаетесь с условиями настоящей политики.
+    <h2>6. Ваши права</h2>
+    <p>Вы можете:</p>
+    <ul>
+        <li>просматривать и редактировать свои данные в профиле;</li>
+        <li>удалить аккаунт, обратившись к нам по электронной почте.</li>
+    </ul>
 
----
+    <h2>7. Контакты</h2>
+    <p>По вопросам конфиденциальности и персональных данных обращайтесь:</p>
+    <p><strong>Email:</strong> <a href="mailto:yogashahistudio@gmail.com">yogashahistudio@gmail.com</a></p>
 
-## 2. Data We Collect / Данные, которые мы собираем
+    <h2>8. Изменения</h2>
+    <p>Мы можем обновлять настоящую Политику конфиденциальности. Актуальная версия всегда доступна по этой ссылке.</p>
 
-### 2.1 Account and Contact Information / Учётные и контактные данные
+    <hr style="margin: 2em 0; border: none; border-top: 1px solid #ddd;">
+    <p style="font-size: 0.9em; color: #666;">© Yoga Shahi. OneYoga Hub — платформа для йога-сообщества Азербайджана.</p>
 
-- **Email address** — for registration and account recovery / для регистрации и восстановления аккаунта
-- **Name and surname** — for profile and bookings / для профиля и бронирований
-- **Phone number** — optional, for contact / по желанию, для связи
+    <hr style="margin: 2em 0; border: none; border-top: 1px solid #ddd;">
+    <h1>Privacy Policy</h1>
+    <p class="updated">OneYoga Hub</p>
+    <p class="updated">Last updated: 2025</p>
 
-### 2.2 Location Data / Геолокация
+    <h2>1. General</h2>
+    <p>This Privacy Policy describes how the OneYoga Hub app ("we", "the app") collects, uses, and protects user data. By using the app, you agree to the terms of this policy.</p>
 
-- **Device location** — only when you use the map feature, with your explicit permission. Used to show your position on the map and build routes to studios.
-- **Местоположение устройства** — только при использовании карты, с вашего разрешения. Используется для отображения вашей позиции и построения маршрутов до студий.
+    <h2>2. Data We Collect</h2>
+    <ul>
+        <li><strong>Account data:</strong> email, name, surname, phone number — during registration and in profile.</li>
+        <li><strong>Photos:</strong> profile picture and images uploaded by instructors and studios.</li>
+        <li><strong>Location:</strong> device location — only when using the map (with your permission), to show your position and routes.</li>
+        <li><strong>User content:</strong> reviews, bookings, and other data you enter in the app.</li>
+        <li><strong>AI Therapist:</strong> text of your yoga questions — when using the "AI Therapist" feature, your messages are sent to Google Cloud (Firebase) to generate AI responses. We ask for your explicit consent before sending any data. Only the text of your question is transmitted.</li>
+    </ul>
 
-### 2.3 Photos / Фотографии
+    <h2>3. Purpose of Use</h2>
+    <p>We use collected data to: provide app functionality, display the catalog, send booking notifications, improve the app, and process your yoga questions via Google Cloud AI (AI Therapist feature, only after your explicit consent).</p>
 
-- **Profile photo** — if you upload one / фото профиля — при загрузке
-- **Images from instructors and studios** — when adding listings to the catalog / изображения от инструкторов и студий — при добавлении в каталог
+    <h2>4. Storage and Security</h2>
+    <p>Data is stored on secure servers (Firebase). We take reasonable measures to protect data from unauthorized access.</p>
 
-### 2.4 User-Generated Content / Пользовательский контент
+    <h2>5. Third-Party Sharing</h2>
+    <p>We do not sell or share your personal data with third parties, except as required by law or for essential app services (Firebase, Google Cloud for AI Therapist).</p>
 
-- **Reviews** — ratings and text you write about instructors and studios / отзывы — оценки и текст об инструкторах и студиях
-- **Bookings** — class reservations you make / бронирования — записи на занятия
+    <h2>6. Your Rights</h2>
+    <p>You can view and edit your data in the profile, or request account deletion by contacting us.</p>
 
-### 2.5 Technical Data / Технические данные
+    <h2>7. Contact</h2>
+    <p><strong>Email:</strong> <a href="mailto:yogashahistudio@gmail.com">yogashahistudio@gmail.com</a></p>
 
-- **Device information** — for app functionality (e.g., push notifications) / информация об устройстве — для работы приложения (уведомления и т.д.)
-
----
-
-## 3. Purpose of Use / Цели использования
-
-We use collected data to:
-
-- Provide app functionality (registration, profile, catalog, bookings)
-- Display the directory of instructors, studios, and shops
-- Send push notifications about bookings (for studio owners)
-- Improve the app and user support
-
-Мы используем данные для: работы приложения, каталога инструкторов и студий, уведомлений о бронированиях и поддержки пользователей.
-
----
-
-## 4. Third-Party Services / Сторонние сервисы
-
-The app uses **Firebase** (Google) for:
-
-- **Authentication** — sign-in and account management
-- **Firestore** — database for user data, instructors, studios
-- **Storage** — image storage
-- **Cloud Messaging** — push notifications
-
-Privacy policy of Firebase: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
-
-We do not use advertising networks, analytics tools, or other third-party SDKs for data collection beyond what is necessary for app operation.
-
-Мы не используем рекламные сети и сторонние аналитические инструменты. Данные передаются только в Firebase для работы приложения.
-
----
-
-## 5. Storage and Security / Хранение и защита
-
-Data is stored on secure servers (Firebase/Google Cloud). We apply reasonable measures to protect data from unauthorized access.
-
-Данные хранятся на защищённых серверах. Мы применяем разумные меры для защиты данных.
-
----
-
-## 6. Data Retention / Хранение данных
-
-We retain your data for as long as you use the app and for a reasonable period thereafter. To request deletion of your data, contact us by email.
-
-Мы храним ваши данные, пока вы пользуетесь приложением, и в течение разумного срока после этого. Для удаления данных обратитесь к нам по email.
-
----
-
-## 7. Your Rights / Ваши права
-
-- **View and edit** — you can update your data in the profile / просматривать и редактировать данные в профиле
-- **Delete account** — contact us at yogashahistudio@gmail.com to request account and data deletion / удалить аккаунт — напишите нам для удаления аккаунта и данных
-- **Uninstall** — you can stop data collection by uninstalling the app / удаление приложения прекращает сбор данных
-
----
-
-## 8. Third-Party Sharing / Передача третьим лицам
-
-We do not sell or share your personal data with third parties. Data may be disclosed only:
-
-- as required by law
-- to service providers necessary for app operation (Firebase), under their privacy policies
-
-Мы не продаём и не передаём ваши персональные данные третьим лицам. Передача возможна только по требованию закона или в рамках работы сервисов приложения.
-
----
-
-## 9. Children / Дети
-
-The app is not intended for children under 13. We do not knowingly collect data from children under 13. If you become aware that a child has provided us with personal information, please contact us.
-
-Приложение не предназначено для детей младше 13 лет. Мы не собираем данные детей. Если вы узнали о передаче нам данных ребёнка, свяжитесь с нами.
-
----
-
-## 10. Changes / Изменения
-
-We may update this Privacy Policy from time to time. The current version is always available at this link. Continued use of the app after changes constitutes acceptance of the updated policy.
-
-Мы можем обновлять настоящую Политику. Актуальная версия доступна по этой ссылке. Продолжение использования приложения означает согласие с обновлённой политикой.
-
----
-
-## 11. Contact / Контакты
-
-**Email:** [yogashahistudio@gmail.com](mailto:yogashahistudio@gmail.com)
-
-For questions about privacy, data deletion, or this policy, please contact us.
-
-По вопросам конфиденциальности, удаления данных или настоящей политики обращайтесь по указанному email.
-
----
-
-© Yoga Shahi. OneYoga Hub — платформа для йога-сообщества Азербайджана.
+    <hr style="margin: 2em 0; border: none; border-top: 1px solid #ddd;">
+    <p style="font-size: 0.9em; color: #666;">© Yoga Shahi. OneYoga Hub — yoga community platform for Azerbaijan.</p>
+</body>
+</html>
